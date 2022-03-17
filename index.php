@@ -17,7 +17,7 @@
     include_once('./layout/navbar.php');
     ?>
     <div class="container py-3">
-        <h1>Hello</h1>
+        <h1>Hello 1</h1>
     </div>
         <div class="container py-3">
         </div>
